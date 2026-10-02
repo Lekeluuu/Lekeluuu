@@ -1,5 +1,7 @@
 # Leke Adesote — Senior QA Analyst
-
+<p align="center">
+  <img src="leke-profile.jpg" width="180" alt="Leke Adesote">
+</p>
 **London, UK · E-commerce · Payments · Order Management · Web · Mobile · API**
 
 ---
